@@ -1,2 +1,2 @@
-# Docker-React-app
-Docker-React-app deployed on NGINX web-server.
+# Docker-ReactJS-app
+Docker-ReactJS-app deployed on NGINX web-server.
