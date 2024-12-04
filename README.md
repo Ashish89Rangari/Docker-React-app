@@ -26,7 +26,7 @@ Note: When we run above command 'build' folder will be generated for deployment.
 => To deploy angular application, we will use NGINX webserver.
 
 
-# Docker-Angular-app
+# Docker-ReactJS-app
   
 
 Clone git repo
