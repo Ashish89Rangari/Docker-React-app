@@ -2,7 +2,8 @@
 Docker-ReactJS-app deployed on NGINX web-server.
 
 # Application 
-![image](https://github.com/user-attachments/assets/a30257cd-7722-4997-be97-fa600db3d655)
+![image](https://github.com/user-attachments/assets/f92d083d-ea6f-4db9-a14b-11138a1229da)
+
 
 
 
